@@ -22,6 +22,7 @@ class MainActivity : ComponentActivity() {
     }
 }
 
+
 @Composable
 fun ColumnEx() {
 //    Column(modifier = Modifier.size(100.dp)) {
